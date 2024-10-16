@@ -1,15 +1,11 @@
 # ID3 Algorithm Implementation
 
-This project is an implementation of the ID3 algorithm (a machine learning algorithm for decision trees) in Python. It was developed as part of my Bachelor's degree in Artificial Intelligence at the Athens University of Economics and Business. Specifically, it was created for the AI course, where I applied the algorithm to classify textual data into two distinct categories (e.g., positive/negative sentiment).
+This project is an implementation of the ID3 algorithm (a machine-learning algorithm for decision trees) in Python. It was developed as part of my Bachelor's degree in Artificial Intelligence at the Athens University of Economics and Business. Specifically, it was created for the AI course, where I applied the algorithm to classify textual data into two distinct categories (e.g., positive/negative sentiment).
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Examples](#examples)
-- [License](#license)
 
 ## Introduction
 
@@ -29,3 +25,4 @@ To install and run this project, clone the repository and ensure you have the ne
 ```bash
 git clone https://github.com/theGreatDane-coder/id3Algorithm.git
 cd id3Algorithm
+jupyter notebook ID3_demo.ipynb
